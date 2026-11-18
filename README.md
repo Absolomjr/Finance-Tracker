@@ -67,7 +67,7 @@ npm run preview  # Preview production build locally
 npm run lint     # Run ESLint
 ```
 
-## Functional Notes
+## Functional Notes of Finance Tracker
 
 - Transaction amounts are normalized as numbers to ensure accurate calculations.
 - Summary values are derived inside the `Summary` component from the current transaction list.
